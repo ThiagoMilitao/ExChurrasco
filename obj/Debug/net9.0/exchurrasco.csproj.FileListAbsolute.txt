@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\bin\Debug\net9.0\exchurrasco.exe
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\bin\Debug\net9.0\exchurrasco.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\bin\Debug\net9.0\exchurrasco.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\bin\Debug\net9.0\exchurrasco.dll
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\bin\Debug\net9.0\exchurrasco.pdb
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\exchurrasco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\exchurrasco.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\exchurrasco.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\exchurrasco.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\exchurrasco.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\exchurrasco.dll
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\refint\exchurrasco.dll
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\exchurrasco.pdb
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\exchurrasco.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista3\exchurrasco\obj\Debug\net9.0\ref\exchurrasco.dll
